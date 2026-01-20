@@ -1,4 +1,4 @@
-# EZpoon 🪝
+# Hooks 🪝
 
 A very small, dead-simple Harpoon-like tool with minimal configuration but with
 all the functionality you need!
